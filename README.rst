@@ -2,6 +2,7 @@
 TernausNetV2: Fully Convolutional Network for Instance Segmentation
 ===================================================================
 
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/kmader/TernausNetV2/patch-1
 
 |teaser|
 
