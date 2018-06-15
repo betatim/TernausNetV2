@@ -8,3 +8,6 @@ dependencies:
 - pytorch-cpu
 - torchvision-cpu
 - opencv
+- matplotlib
+- scikit-image
+- pillow
