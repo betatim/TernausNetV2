@@ -1,6 +1,7 @@
 name: ternausnet
 channels:
 - conda-forge
+- menpo
 - pytorch
 - defaults
 dependencies:
