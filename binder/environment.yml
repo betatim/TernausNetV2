@@ -5,6 +5,7 @@ channels:
 - pytorch
 - defaults
 dependencies:
+- glib
 - numpy=1.14.0
 - pytorch-cpu
 - torchvision-cpu
