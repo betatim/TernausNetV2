@@ -1,13 +1,15 @@
-name: foobar
+name: ternausnet
 channels:
 - conda-forge
+- menpo
 - pytorch
 - defaults
 dependencies:
+- glib
 - numpy=1.14.0
 - pytorch-cpu
 - torchvision-cpu
-- opencv
+- opencv3>=3.0
 - matplotlib
 - scikit-image
 - pillow
